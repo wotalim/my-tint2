@@ -6,3 +6,6 @@ lulba
 
 Pastel Blue
 ![screenshot_2018-11-18_22-30-30](https://user-images.githubusercontent.com/38096925/48684890-d44e2600-eb81-11e8-904b-ed40bddc21a5.png)
+
+Prokotol
+![tint2prokotol](https://user-images.githubusercontent.com/38096925/53462172-e6f1ba00-3a10-11e9-87a2-3c9ceb5ad5af.png)
